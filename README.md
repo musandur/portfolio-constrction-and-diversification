@@ -1,9 +1,5 @@
-This work is the supporting code of my blog in the medium platform. 
+This code supports my blog on the Medium platform, which provides a walkthrough of the mathematical foundations behind constructing a multi-factor risk model for a portfolio and how to build a robustly diversified portfolio using this model. The portfolio's risk and the assets' risk exposures are estimated using five years of historical data from Yahoo Finance, combined with the Fama-French five-factor model dataset.
 
-The blog is a walk through a simple mathematicla explanation of how a portfolio multi-factor risk model is build  and the how a robustly diversifed portfolio can be constructed from this model.  The portfolio risk and assets risk exposures are estimated  using five years of historical data from yahoo finace and the Fam-French five-factors model dataset.
+The diversification method is centered around the variation of factor exposures according to the Fama-French risk factors. I refer to this approach as Factor-Exposure-Based Diversification.
 
-
-The diversification process is based on the variation of the factor exposures according to the  Fam-French  risk factors. I name this approach as a Factor-exposure-based diversifion.
-
-
-Diversification reduces portfolio's overall  risk exposure. 
+By applying this method, diversification helps reduce the portfolio's overall risk exposure.
